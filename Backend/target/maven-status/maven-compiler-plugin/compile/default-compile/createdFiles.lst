@@ -3,7 +3,6 @@ com\portafolio\eavc\Security\Dto\LoginUsuario.class
 com\portafolio\eavc\Dto\dtoHys.class
 com\portafolio\eavc\Dto\dtoPersona.class
 com\portafolio\eavc\repositorio\RExperiencia.class
-com\portafolio\eavc\interfase\IPersonaServicio.class
 com\portafolio\eavc\Security\Entity\Usuario.class
 com\portafolio\eavc\Security\Repository\iUsuarioRepository.class
 com\portafolio\eavc\Security\Service\RolService.class
@@ -11,7 +10,6 @@ com\portafolio\eavc\entidad\hys.class
 com\portafolio\eavc\Security\Service\UserDetailsImpl.class
 com\portafolio\eavc\Security\Repository\iRolRepository.class
 com\portafolio\eavc\Dto\dtoExperiencia.class
-.netbeans_automatic_build
 com\portafolio\eavc\Security\MainSecurity.class
 com\portafolio\eavc\repositorio\IPersonaRepositorio.class
 com\portafolio\eavc\EavcApplication.class
