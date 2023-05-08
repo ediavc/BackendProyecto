@@ -10,6 +10,7 @@ com\portafolio\eavc\entidad\hys.class
 com\portafolio\eavc\Security\Service\UserDetailsImpl.class
 com\portafolio\eavc\Security\Repository\iRolRepository.class
 com\portafolio\eavc\Dto\dtoExperiencia.class
+com\portafolio\eavc\WebConfig.class
 com\portafolio\eavc\Security\MainSecurity.class
 com\portafolio\eavc\repositorio\IPersonaRepositorio.class
 com\portafolio\eavc\EavcApplication.class
